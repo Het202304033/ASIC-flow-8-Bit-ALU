@@ -7,3 +7,5 @@ Full-Custom ASIC Design & Tape-Out of an 8-Bit Adder/Subtractor ALU
 - Designed the layout in Cadence Virtuoso (180nm CMOS SCLpdk library). Performed DRC, LVS, PEX, and antenna rule checks in Siemens Calibre tools.
 - After doing the Post Layout Simulation, achieved a propagation delay of 1.6 ns and demonstrated drive capability into a 50 pF load, with a maximum simulated dynamic current of 535 μA.
 - Contributed to the finalised design package, which was submitted for tape-out at SCL Chandigarh.
+
+<img width="1710" height="540" alt="Your paragraph text" src="https://github.com/user-attachments/assets/97c7c81f-7b7b-44c5-a7bb-6124d3f9f090" />
