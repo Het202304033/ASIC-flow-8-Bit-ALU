@@ -1,6 +1,6 @@
 
 Full-Custom ASIC Design & Tape-Out of an 8-Bit Adder/Subtractor ALU 
-
+<img width="1710" height="540" alt="Your paragraph text" src="https://github.com/user-attachments/assets/97c7c81f-7b7b-44c5-a7bb-6124d3f9f090" />
 
 - As part of a team, performed a Breadboard implementation and understanding of an 8-bit simple-as-possible (SAP) computer, followed by a PCB design and validation (EasyEDA tool).
 - Developed all basic logic gates and implemented the 8-bit adder/subtractor ALU schematic design, and performed the pre-layout validation.
@@ -8,4 +8,4 @@ Full-Custom ASIC Design & Tape-Out of an 8-Bit Adder/Subtractor ALU
 - After doing the Post Layout Simulation, achieved a propagation delay of 1.6 ns and demonstrated drive capability into a 50 pF load, with a maximum simulated dynamic current of 535 μA.
 - Contributed to the finalised design package, which was submitted for tape-out at SCL Chandigarh.
 
-<img width="1710" height="540" alt="Your paragraph text" src="https://github.com/user-attachments/assets/97c7c81f-7b7b-44c5-a7bb-6124d3f9f090" />
+
