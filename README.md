@@ -35,4 +35,6 @@ During fabrication (specifically plasma etching), long unbroken floating metal t
 * **Metal Jumpering (Layer Hopping):** To resolve "Antenna ratio exceeded" violations in the layout, long horizontal data lines are not drawn as a single continuous trace[cite: 4]. 
 * **Implementation:** Traces are deliberately severed into shorter segments by dropping down (or popping up) to an adjacent metal layer using vias[cite: 4]. Because etching is done layer-by-layer, this ensures no single layer is physically long enough to accumulate lethal plasma charge[cite: 4]. The isolation protects sensitive gates until the final upper-level metals bridge the connections[cite: 4].
 
+Fabricated IC from HCL Chandigarh:
+<img width="1168" height="882" alt="WhatsApp Image 2026-11-26 at 12 19 42 AM" src="https://github.com/user-attachments/assets/f20aef88-bad3-4b25-9eab-2456cef04d96" />
 
